@@ -1,1 +1,1 @@
-console.log("Welcome To Ehsas Lab.");
+console.log("To run on the vs code terminal node fileName.js");
